@@ -1,0 +1,29 @@
+a:link{ color: rgba(255, 255, 100, 1);
+            text-decoration-line: underline;
+}
+a:hover{
+          font-family: 'Courier New';
+          color: deepskyblue;
+            text-decoration-line: underline
+}
+a:visited{
+          color: whitesmoke;
+          text-decoration: line-through;
+}
+
+    #SPIN{
+        background-image: url(images/v1spinagain.gif);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 275px;
+        left: 1275px;
+}
+#DANCE {
+    background-image: url(images/v1dance.gif);
+    width: 165px;
+    height: 294px;
+    position: absolute;
+    top: 400px;
+    left: 900px;
+}
